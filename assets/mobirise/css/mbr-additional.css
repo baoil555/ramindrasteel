@@ -2417,7 +2417,7 @@ body {
 .cid-ro4drhjQCV {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #e4d295;
+  background-color: #b2ccd2;
 }
 .cid-ro4drhjQCV h2 {
   margin-bottom: 0;
@@ -2454,6 +2454,90 @@ body {
     width: 100%;
   }
   .cid-ro4drhjQCV .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-ro4nMBv68V {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-ro4nMBv68V h4 {
+  width: 85%;
+  font-weight: 500;
+  margin-bottom: 0;
+}
+.cid-ro4nMBv68V p {
+  color: #767676;
+}
+.cid-ro4nMBv68V .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-ro4nMBv68V .card-wrapper .card-box {
+  padding: 2rem 2rem 2rem 0;
+  width: 100%;
+}
+.cid-ro4nMBv68V .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-ro4nMBv68V .card-wrapper .card-box .bottom-line {
+  width: 85%;
+}
+@media (max-width: 767px) {
+  .cid-ro4nMBv68V .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-ro4nMBv68V .card-wrapper .card-box .bottom-line p {
+    text-align: center;
+    margin: 1rem 0 0 0;
+  }
+}
+.cid-ro4qCIpxYI {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #e4d295;
+}
+.cid-ro4qCIpxYI h2 {
+  margin-bottom: 0;
+}
+.cid-ro4qCIpxYI h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  width: 80%;
+}
+.cid-ro4qCIpxYI p {
+  color: #767676;
+  margin-bottom: 0;
+}
+.cid-ro4qCIpxYI .card-wrapper {
+  border-top: 1px solid #efefef;
+  background-color: #ffffff;
+  position: relative;
+  justify-content: unset;
+}
+.cid-ro4qCIpxYI .card-wrapper .card-box {
+  padding: 2rem 1rem;
+  width: 100%;
+}
+.cid-ro4qCIpxYI .card-wrapper .card-box .top-line {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.cid-ro4qCIpxYI .card-wrapper .card-box .bottom-line {
+  width: 70%;
+}
+@media (max-width: 767px) {
+  .cid-ro4qCIpxYI .card-wrapper .card-box .bottom-line {
+    width: 100%;
+  }
+  .cid-ro4qCIpxYI .card-wrapper .card-box .bottom-line p {
     text-align: center;
     margin: 1rem 0 0 0;
   }
